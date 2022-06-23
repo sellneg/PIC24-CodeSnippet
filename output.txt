@@ -1,0 +1,285 @@
+Time: 10:56:57, Date: 10-06-2020 - Firmware Upload
+Initializing state machine.
+
+State is now ST_IDLE.
+New IP Address: 10.1.0.1
+Time Elapsed in ms = 5094 OPEN
+recvd: 5094, 5094, 0001Rising Edge.
+
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 586 CLOSED
+recvd: 586, 586, 0000Falling Edge.
+
+cycle_mold_closed() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time Elapsed in ms = 2180 OPEN
+recvd: 2180, 2180, 0001Rising Edge.
+
+
+Count	Cycle Time
+1	28828 ms
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 513 CLOSED
+recvd: 513, 513, 0000Falling Edge.
+
+cycle_mold_closed() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time Elapsed in ms = 5586 OPEN
+recvd: 5586, 5586, 0001Rising Edge.
+
+
+Count	Cycle Time
+2	6099 ms
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 454 CLOSED
+recvd: 454, 454, 0000Falling Edge.
+
+cycle_mold_closed() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time Elapsed in ms = 2189 OPEN
+recvd: 2189, 2189, 0001Rising Edge.
+
+
+Count	Cycle Time
+3	2643 ms
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 350 CLOSED
+recvd: 350, 350, 0000Falling Edge.
+
+cycle_mold_closed() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time Elapsed in ms = 3081 OPEN
+recvd: 3081, 3081, 0001Rising Edge.
+
+
+Count	Cycle Time
+4	3431 ms
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 308 CLOSED
+recvd: 308, 308, 0000Falling Edge.
+
+cycle_mold_closed() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time: 10:58:26, Date: 10-06-2020
+TimeOut!!!!cycle_mold_closed() called.
+
+State is now ST_INCOMPLETE.
+
+
+Time Elapsed in ms = 58256 OPEN
+recvd: 58256, 58256, 0001Rising Edge.
+
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 280 CLOSED
+recvd: 280, 280, 0000Falling Edge.
+
+cycle_mold_closed() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time Elapsed in ms = 10640 OPEN
+recvd: 10640, 10640, 0001Rising Edge.
+
+
+Count	Cycle Time
+5	3948 ms
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 343 CLOSED
+recvd: 343, 343, 0000Falling Edge.
+
+cycle_mold_closed() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time: 10:59:15, Date: 10-06-2020
+TimeOut!!!!cycle_mold_closed() called.
+
+State is now ST_INCOMPLETE.
+
+
+Time: 11:00:04, Date: 10-06-2020
+Time: 11:00:53, Date: 10-06-2020
+Time: 11:01:41, Date: 10-06-2020
+Time: 11:02:30, Date: 10-06-2020
+Time: 11:03:19, Date: 10-06-2020
+Time: 11:04:07, Date: 10-06-2020
+
+
++++
+
+Time: 12:18:51, Date: 10-06-2020 - Firmware UploadInitializing state machine.
+
+State is now ST_IDLE.
+New IP Address: 10.1.0.1
+Time Elapsed in ms = 10488 OPEN
+recvd: 10488, 10488, 0001Rising Edge.
+
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 444 CLOSED
+recvd: 444, 444, 0000Falling Edge.
+
+cycle_mold_open() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time Elapsed in ms = 11761 OPEN
+recvd: 11760, 11761, 0001Rising Edge.
+
+cycle_complete() called. Cycle time: 12205 mseconds
+
+
+Count	Cycle Time
+1		12205 ms
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+
+Time Elapsed in ms = 382 CLOSED
+recvd: 381, 382, 0000Falling Edge.
+
+cycle_mold_open() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time Elapsed in ms = 7451 OPEN
+recvd: 7451, 7451, 0001Rising Edge.
+
+cycle_complete() called. Cycle time: 7833 mseconds
+
+
+Count	Cycle Time
+2		7833 ms
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 376 CLOSED
+recvd: 376, 377, 0000Falling Edge.
+
+cycle_mold_open() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time Elapsed in ms = 4582 OPEN
+recvd: 4582, 4582, 0001Rising Edge.
+
+cycle_complete() called. Cycle time: 4959 mseconds
+
+
+Count	Cycle Time
+3		4959 ms
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 303 CLOSED
+recvd: 303, 303, 0000Falling Edge.
+
+cycle_mold_open() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time Elapsed in ms = 1752 OPEN
+recvd: 1752, 1752, 0001Rising Edge.
+
+cycle_complete() called. Cycle time: 2055 mseconds
+
+
+Count	Cycle Time
+4		2055 ms
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 331 CLOSED
+recvd: 331, 331, 0000Falling Edge.
+
+cycle_mold_open() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time Elapsed in ms = 1336 OPEN
+recvd: 1336, 1336, 0001Rising Edge.
+
+cycle_complete() called. Cycle time: 1667 mseconds
+
+
+Count	Cycle Time
+5		1667 ms
+cycle_mold_closed() called.
+
+State is now ST_MOLD_CLOSED.
+
+
+Time Elapsed in ms = 315 CLOSED
+recvd: 314, 315, 0000Falling Edge.
+
+cycle_mold_open() called.
+
+State is now ST_MOLD_OPEN.
+
+
+Time: 12:20:31, Date: 10-06-2020
+TimeOut!!!!cycle_incomplete() called.
+
+State is now ST_INCOMPLETE.
+
